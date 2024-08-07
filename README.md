@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🔭 I'm currently working on E-Ehsan.uz
+-
+- 🌱 I’m currently learning Python
+-
+- 🤔 I’m looking for help with SignalIR
+-
+-💬 Ask me about .Net 
+-
+-⚡ Fun fact: I laki play game "The Hunter: Call of the Wild"
+
 <!--
 **elmur0d11/elmur0d11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
