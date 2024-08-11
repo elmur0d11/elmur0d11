@@ -8,7 +8,7 @@
 -
 -💬 Ask me about .Net 
 -
--⚡ Fun fact: I laki play game "The Hunter: Call of the Wild"
+-⚡ Fun fact: I like play game "The Hunter: Call of the Wild"
 
 <!--
 **elmur0d11/elmur0d11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
