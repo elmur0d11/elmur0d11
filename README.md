@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working on E-Ehsan.uz
+- 🔭 I'm currently working on E-Games.uz
 -
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning .Net MAUI
 -
 - 🤔 I’m looking for help with SignalIR
 -
