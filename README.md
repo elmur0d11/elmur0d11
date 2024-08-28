@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on E-Games.uz
 -
-- 🌱 I’m currently learning .Net MAUI
+- 🌱 I’m currently learning C++
 -
 - 🤔 I’m looking for help with SignalIR
 -
