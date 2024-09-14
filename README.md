@@ -2,9 +2,9 @@
 
 - 🔭 I'm currently working on E-Games.uz
 -
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Assembly
 -
-- 🤔 I’m looking for help with SignalIR
+- 🤔 I’m looking for help with Assembly
 -
 -💬 Ask me about .Net 
 -
