@@ -1,5 +1,7 @@
 # 💫 About Me:
-Store Web App<br><br>
+Hello my name is Elmurod
+
+A .NET Full-Stack developer from Uzabekistan<br><br>
 
 
 ## 🌐 Socials:
