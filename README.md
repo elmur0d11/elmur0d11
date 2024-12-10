@@ -130,12 +130,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/elmur0d11/elmur0d11/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<div align="center">
-  <img height="177" src="https://th.bing.com/th/id/R.f960bae195ea3774290c22c7e4fe2af1?rik=czt%2fFzEJrIynDA&pid=ImgRaw&r=0"  />
-</div>
 
 ###
