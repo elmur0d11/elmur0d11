@@ -13,6 +13,10 @@
  <a href="https://t.me/dotnetdevsblog">Telegram ></a>
 </div>
 
+<div align="center>
+  <a href="https://bright-pudding-ee04e4.netlify.app/">My WebSite></a>
+</div>
+
 <h2 align="center">🛠 Language and tools</h2>
 
 <div align="center">
