@@ -12,6 +12,7 @@
  <a href="https://medium.com/@elmuroddevvv">Medium ></a>
  <a href="https://t.me/dotnetdevsblog">Telegram ></a>
  <a href="https://bright-pudding-ee04e4.netlify.app">My WebSite ></a>
+ <a href="https://docs.google.com/document/d/11isS1vX8vjeVhtGOnS0VL67JsZD6RK23kjwsvvCHpMc/edit?usp=sharing">Resume ></a>
 </div>
 
 <h2 align="center">🛠 Language and tools</h2>
