@@ -1,7 +1,7 @@
  <div align="center">
       <h1>Hi there!👋🏻</h1>
   <br clear="both">
-      <h2 align="center">I'm Elmurod From Uzbekistan<br><br>I'm a .NET Back-End Developer<br>I'm currently learning Go</h2>
+      <h2 align="center">I'm Elmurod From Uzbekistan<br><br>I'm a .NET Back-End Developer<br>I'm currently learning Golang</h2>
  </div>
 <br clear="both">
 
