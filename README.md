@@ -11,7 +11,7 @@
  <a href="https://www.instagram.com/elmurod.developer/">Instagram ></a>
  <a href="https://medium.com/@elmuroddevvv">Medium ></a>
  <a href="https://t.me/dotnetdevsblog">Telegram ></a>
- <a href="https://bright-pudding-ee04e4.netlify.app">My WebSite ></a>
+ <a href="https://elmurods-blogg.netlify.app/">My WebSite ></a>
  <a href="https://docs.google.com/document/d/11isS1vX8vjeVhtGOnS0VL67JsZD6RK23kjwsvvCHpMc/edit?usp=sharing">Resume ></a>
  <a href="https://www.youtube.com/channel/UCU0fJXxM7Vbs46UVYqYkSwg">YouTube ></a>
 </div>
