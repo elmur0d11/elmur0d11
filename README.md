@@ -13,7 +13,6 @@
  <a href="https://t.me/dotnetdevsblog">Telegram ></a>
  <a href="https://elmurods-blogg.netlify.app/">My WebSite ></a>
  <a href="https://docs.google.com/document/d/11isS1vX8vjeVhtGOnS0VL67JsZD6RK23kjwsvvCHpMc/edit?usp=sharing">Resume ></a>
- <a href="https://www.youtube.com/channel/UCU0fJXxM7Vbs46UVYqYkSwg">YouTube ></a>
 </div>
 
 <h2 align="center">🛠 Language and tools</h2>
@@ -90,6 +89,3 @@
 <img src="https://imgs.search.brave.com/PN-wTztuJ_G_RZSaV8Z1tnoxsu9pLEszs3QDE7VCiRA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmlh/bm1lZWtlci5tZS9h/c3NldHMvMjAyMS0w/OC0xNF9jcmVhdGlu/Zy1jdXN0b20tYXNz/ZXJ0aW9ucy13aXRo/LWZsdWVudC1hc3Nl/cnRpb25zL2ZsdWVu/dF9hc3NlcnRpb25z/X2xhcmdlX2hvcml6/b250YWxfbG9nby5w/bmc" height="40"/>
 
 </div>
-
-# My YouTube Videos
- <a href="https://www.youtube.com/watch?v=ELf8KV9gjF0">What's API></a>
